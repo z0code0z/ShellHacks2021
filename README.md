@@ -2,7 +2,7 @@
 Our Project for the Shell Hacks 2021
 
 
-hellhacks 2021 Project - Endless Swinging Game
+Shellhacks 2021 Project - Endless Swinging Game
 ------------------------------------------------------------
 This game is made from unity, its an endless swinging game with the point
 of going farther than your last attempts.
